@@ -1,0 +1,28 @@
+"locations" = [
+    { "id": 1, "address": "123 Oak Street" },
+    { "id": 2, "address": "246 Birch Blvd" },
+    { "id": 3, "address": "1092 Maple Ave" },
+    { "id": 4, "address": "5678 Redwood Way" }
+]
+
+
+"employees" = [
+    { "id": 1, "name": "Holly Flax" },
+    { "id": 2, "name": "Michael Scott" },
+    { "id": 3, "name": "Dwight Schrute" }
+]
+
+"candyTypes" = [
+    { "id": 1, "type": "Gummy" },
+    { "id": 2, "type": "Chocolate" },
+    { "id": 3, "type": "Hard" },
+]
+
+"candies" = [
+    { "id": 1, "name": "Sour Patch Kids" },
+    { "id": 2, "name": "Butterfinger" },
+    { "id": 3, "name": "Nerds" },
+    { "id": 4, "name": "Reese's" },
+    { "id": 5, "name": "Peppermint" },
+    { "id": 6, "name": "Swedish Fish" }
+]
